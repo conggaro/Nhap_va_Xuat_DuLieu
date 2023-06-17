@@ -1,0 +1,15 @@
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\bin\Debug\net7.0\code_C_Sharp.exe
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\bin\Debug\net7.0\code_C_Sharp.deps.json
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\bin\Debug\net7.0\code_C_Sharp.runtimeconfig.json
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\bin\Debug\net7.0\code_C_Sharp.dll
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\bin\Debug\net7.0\code_C_Sharp.pdb
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\obj\Debug\net7.0\code_C_Sharp.csproj.AssemblyReference.cache
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\obj\Debug\net7.0\code_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\obj\Debug\net7.0\code_C_Sharp.AssemblyInfoInputs.cache
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\obj\Debug\net7.0\code_C_Sharp.AssemblyInfo.cs
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\obj\Debug\net7.0\code_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\obj\Debug\net7.0\code_C_Sharp.dll
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\obj\Debug\net7.0\refint\code_C_Sharp.dll
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\obj\Debug\net7.0\code_C_Sharp.pdb
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\obj\Debug\net7.0\code_C_Sharp.genruntimeconfig.cache
+C:\Nhap_va_xuat_du_lieu_ra_man_hinh_Console\code_C_Sharp\obj\Debug\net7.0\ref\code_C_Sharp.dll
